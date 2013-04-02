@@ -6,7 +6,7 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>This is Application Name</name>
+    <name>Changed</name>
 
     <description>
        This is application description
