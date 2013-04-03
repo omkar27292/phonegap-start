@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Changed</name>
+    <name>Bye Bye</name>
 
     <description>
-       This is application description
+     There is a change made
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
