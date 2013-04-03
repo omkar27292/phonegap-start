@@ -9,6 +9,7 @@
     <name>fvsdffsfpo</name>
     
     <gap:plugin name="ChildBrowser" />
+    <gap:plugin name="BarcodeScanner" />
 
     <description>
      Now working
